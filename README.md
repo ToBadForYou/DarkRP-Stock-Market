@@ -5,6 +5,4 @@ It used to be sold on gmodstore and you can view more details [here](https://www
 
 Requires version 2.5.0+ version of DarkRP and CSS content to be installed
 
-Workshop content can be found [here](https://steamcommunity.com/sharedfiles/filedetails/?id=754552027)
-
 **NOTE: This addon is not allowed to be used for commercial use.**
